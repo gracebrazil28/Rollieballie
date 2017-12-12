@@ -6,3 +6,5 @@ Hello everyone, it has been a while since I have added things here in my github.
 Here you can find the Camera Controller, Player Controller, (Object) Rotation scripts.
 
 More details on the project has been posted to my online portfolio: https://preciousgracebrazil.wordpress.com/portfolio/rollie-ballie/
+
+Happy Making everyone!
